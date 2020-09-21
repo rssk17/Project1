@@ -39,5 +39,10 @@ namespace WpfApp1
         {
             MessageBox.Show("33333");
         }
+
+        private void Button_Click_3(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("33333");
+        }
     }
 }
